@@ -18,9 +18,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### Contents
 
-run_analysis.R -- The script performs the analysis
-tidy_data.txt -- The tidy data set outcome.
-CodeBook.md --  The code book that describes the variables, the data, and any transformations
+* run_analysis.R -- The script performs the analysis.
+* tidy_data.txt -- The tidy data set outcome.
+* CodeBook.md --  The code book that describes the variables, the data, and any transformations.
 
 ### How To Run
 
